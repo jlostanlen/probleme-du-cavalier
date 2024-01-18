@@ -3,7 +3,7 @@ Implémentation d'un algorithme Python avec interface graphique pour permettre �
 J'ai réalisé ce projet en colaboration avec Erwan Fertray et Marc Blanchet.
 
 ## Code
-
+```
 import turtle
 
 def init_echiquier(): 
@@ -258,4 +258,4 @@ if (a == False ):
     print("Dessin impossible")
 else :
     dessine_trajet(a)
-
+```
